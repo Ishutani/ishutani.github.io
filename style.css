@@ -19,6 +19,7 @@ font: inherit;
 vertical-align: baseline;
 text-decoration: none;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -49,12 +50,26 @@ body {
 	text-align: center;
     font-family: 'Marcellus SC', serif;
 /*    font-family: 'Marcellus', serif;*/
-	width: 1650px;
+	width: 90vw;
 	margin: 0 auto;
 	}
 	
 html {
     overflow-y:scroll;
+}
+
+/* GLOBAL CONTENT */
+
+.content {
+}	
+
+img {
+	vertical-align: middle;
+	width: 100%;
+}
+
+ul {
+	margin: 0;
 }
 
 /* logo */
@@ -86,7 +101,6 @@ html {
 	margin-top: 2em;
 	border-top: 1px solid #cfcfcf;
 	border-bottom: 1px solid #cfcfcf;	
-	margin-bottom: 0.5em;
 	background-color: white;
 }
 
@@ -98,6 +112,13 @@ html {
 	width: 200px;
 	display: block;
 	padding: 1em 0em 1em 0em;
+	-moz-transition:.15s;
+	-moz-transition-timing-function: cubic-bezier(0,.1,0.3,1);
+}
+
+.header_nav a:hover {
+	color: white !important; 
+	background-color: black !important;
 }
 
 .header_nav_buttonbox {
@@ -109,25 +130,17 @@ html {
 li {
 	display: inline;
 	border-left: 1px solid #cfcfcf;
-	color: #fff;
-	margin-left: -0.15em;
-	margin-right: -0.15em;
-}
-
-#header_nav_lastitem {
 	border-right: 1px solid #cfcfcf;
+	color: #fff;
+	margin-right: -1px;
 }
 
-/* GLOBAL CONTENT */
-
-.content {
-}
 
 /* PAINTINGS PAGE */
 
 #paintings_page img {
 	width: 99.5%;
-	margin-bottom: 0.2em;
+	margin-top: 0.5%;
 }
 
 #wrap {
@@ -142,10 +155,25 @@ li {
 #right_col {
 	width: 50%;
 	float: right;
-
 }
 
 /* CONCEPTS PAGE */
+
+.project_splash_wrapper {
+/*	border: 2px solid red; */
+	height: 14vw;
+	overflow: hidden;
+	margin-top: .2%;
+	margin-bottom: .2%;
+}
+
+.project_splash {
+	width: 100%;
+	margin-top: -22%;
+	margin-bottom: -20%;
+}
+
+/* INDIVIDUAL PROJECTS PAGE */
 
 .project_header {
 /*	border: 2px solid red; */
@@ -155,21 +183,10 @@ li {
 	margin-right: auto;
 }
 
-.project_splash_wrapper {
-	height: 280px;
-	overflow: hidden;
-	margin-bottom: 0.5em;
-}
-
-.project_splash {
-	width: 100%;
-	margin-top: -20%;
-}
-
-.project_title {
-	font-size: 1.3em;
+h1 {
+	font-size: 1.5em;
 	text-transform: uppercase;
-	margin-bottom: 0.6em;
+	margin-bottom: 0.8em;
 }
 
 p {
@@ -177,3 +194,31 @@ p {
 	letter-spacing: 0em;
 	font-size: 0.96em;
 }
+
+.project_splash_textwrapper {
+	width: 460px;
+	margin: 0 auto;
+}
+
+div.project_splash_description {
+	padding-top: 6vw;
+	padding-bottom: 6vw;
+	position: relative;
+	top: -10vw;
+	color: white;
+	z-index: 1000;
+	background-color: rgba(0, 0, 0, 0.5);
+	pointer-events: none;
+}
+
+div.project_splash_description:hover {
+	padding-top: 6vw;
+	padding-bottom: 6vw;
+	position: relative;
+	top: -21vw;
+	color: white;
+	z-index: 1000;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+
