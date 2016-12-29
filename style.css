@@ -200,18 +200,18 @@ p {
 	margin: 0 auto;
 }
 
-div.project_splash_description {
+.project_splash_description {
 	padding-top: 6vw;
 	padding-bottom: 6vw;
 	position: relative;
-	top: -10vw;
+	top: -5vw;
 	color: white;
 	z-index: 1000;
 	background-color: rgba(0, 0, 0, 0.5);
 	pointer-events: none;
 }
 
-div.project_splash_description:hover {
+.project_splash_wrapper:hover .project_splash_description {
 	padding-top: 6vw;
 	padding-bottom: 6vw;
 	position: relative;
@@ -219,6 +219,8 @@ div.project_splash_description:hover {
 	color: white;
 	z-index: 1000;
 	background-color: rgba(0, 0, 0, 0.5);
+	pointer-events: none;
+	-moz-transition:.5s;
 }
 
 
