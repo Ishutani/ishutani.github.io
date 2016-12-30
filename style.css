@@ -112,8 +112,7 @@ ul {
 	width: 200px;
 	display: block;
 	padding: 1em 0em 1em 0em;
-	-moz-transition:.15s;
-	-moz-transition-timing-function: cubic-bezier(0,.1,0.3,1);
+	transition: all .4s ease-out;
 }
 
 .header_nav a:hover {
@@ -155,6 +154,37 @@ li {
 #right_col {
 	width: 50%;
 	float: right;
+}
+
+/* PAINTINGS PAGE - LIGHTBOX */
+
+.paintings_lightbox { /* creates darkening effect under image */
+	display: none;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.75);
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	transition: all 0.3s ease-out;
+}
+
+.paintings_lightbox_img {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	height: 100%;
+	width: auto !important;
+	border: 10px solid #404040;
+}
+
+.paintings_lightbox:target {
+	display: block;
 }
 
 /* CONCEPTS PAGE */
@@ -209,6 +239,7 @@ p {
 	z-index: 1000;
 	background-color: rgba(0, 0, 0, 0.5);
 	pointer-events: none;
+	transition: all .9s ease-out;
 }
 
 .project_splash_wrapper:hover .project_splash_description {
@@ -220,7 +251,5 @@ p {
 	z-index: 1000;
 	background-color: rgba(0, 0, 0, 0.5);
 	pointer-events: none;
-	-moz-transition:.5s;
+	transition: all .4s ease;
 }
-
-
