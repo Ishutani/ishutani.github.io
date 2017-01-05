@@ -50,7 +50,7 @@ body {
 	text-align: center;
     font-family: 'Marcellus SC', serif;
 /*    font-family: 'Marcellus', serif;*/
-	width: 90vw;
+	width: 1750px;
 	margin: 0 auto;
 	}
 	
@@ -142,18 +142,22 @@ li {
 	margin-top: 0.5%;
 }
 
-#wrap {
+.col_wrap {
 	margin: 0 auto;
 }
 
-#left_col {
+.left_col {
 	width: 50%;
 	float: left;
 }
 
-#right_col {
+.right_col {
 	width: 50%;
 	float: right;
+}
+
+#paintings_page_1column {
+	display: none;
 }
 
 /* PAINTINGS PAGE - LIGHTBOX */
@@ -178,28 +182,31 @@ li {
 	left: 0;
 	right: 0;
 	margin: auto;
-	height: 100%;
+	height: 98%;
 	width: auto !important;
-	border: 10px solid #404040;
 }
 
 .paintings_lightbox:target {
 	display: block;
 }
 
+
 /* CONCEPTS PAGE */
 
 .project_splash_wrapper {
 /*	border: 2px solid red; */
-	height: 14vw;
+	height: 340px;
 	overflow: hidden;
-	margin-top: .2%;
-	margin-bottom: .2%;
+	margin-top: 2px;
+	margin-bottom: 2px;
 }
 
 .project_splash {
-	width: 100%;
-	margin-top: -22%;
+	width: 1750x;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	margin-top: -19%;
 	margin-bottom: -20%;
 }
 
@@ -226,15 +233,15 @@ p {
 }
 
 .project_splash_textwrapper {
-	width: 460px;
+	width: 100%;
 	margin: 0 auto;
 }
 
 .project_splash_description {
-	padding-top: 6vw;
-	padding-bottom: 6vw;
+	padding-top: 140px;
+	padding-bottom: 200px;
 	position: relative;
-	top: -5vw;
+	top: 150px;
 	color: white;
 	z-index: 1000;
 	background-color: rgba(0, 0, 0, 0.5);
@@ -243,10 +250,8 @@ p {
 }
 
 .project_splash_wrapper:hover .project_splash_description {
-	padding-top: 6vw;
-	padding-bottom: 6vw;
 	position: relative;
-	top: -21vw;
+	top: -450px;
 	color: white;
 	z-index: 1000;
 	background-color: rgba(0, 0, 0, 0.5);
