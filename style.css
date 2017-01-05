@@ -125,7 +125,6 @@ ul {
 	display: inline-block;
 }
 	
-
 li {
 	display: inline;
 	border-left: 1px solid #cfcfcf;
@@ -142,7 +141,7 @@ li {
 	margin-top: 0.5%;
 }
 
-.col_wrap {
+#wrap {
 	margin: 0 auto;
 }
 
@@ -190,6 +189,12 @@ li {
 	display: block;
 }
 
+@media screen and (max-width: 1400px) {
+	
+	.paintings_lightbox_img {
+		width: 98% !important;
+		height: auto;
+}
 
 /* CONCEPTS PAGE */
 
