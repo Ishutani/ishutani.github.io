@@ -1,2 +1,1686 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-04T18:59:01-08:00</updated><id>http://localhost:4000//</id><title type="html">Art of Chelsea Jinxu Du</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Crystal Room</title><link href="http://localhost:4000/projects/Crystal-Room" rel="alternate" type="text/html" title="Crystal Room" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Crystal-Room</id><content type="html" xml:base="http://localhost:4000/projects/Crystal-Room">&lt;p&gt;In contemporary business and science, a project is an individual or collaborative enterprise.&lt;/p&gt;</content><summary type="html">In contemporary business and science, a project is an individual or collaborative enterprise.</summary></entry><entry><title type="html">Bohdisatvah</title><link href="http://localhost:4000/projects/Bohdisatvah" rel="alternate" type="text/html" title="Bohdisatvah" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Bohdisatvah</id><content type="html" xml:base="http://localhost:4000/projects/Bohdisatvah">&lt;p&gt;In contemporary business and science, a project is an individual or collaborative enterprise.&lt;/p&gt;</content><summary type="html">In contemporary business and science, a project is an individual or collaborative enterprise.</summary></entry><entry><title type="html">Battle Angel Alita</title><link href="http://localhost:4000/projects/Battle-Angel-Alita" rel="alternate" type="text/html" title="Battle Angel Alita" /><published>2016-12-26T00:41:10-08:00</published><updated>2016-12-26T00:41:10-08:00</updated><id>http://localhost:4000/projects/Battle-Angel-Alita</id><content type="html" xml:base="http://localhost:4000/projects/Battle-Angel-Alita">&lt;p&gt;In contemporary business and science, a project is an individual or collaborative enterprise.&lt;/p&gt;</content><summary type="html">In contemporary business and science, a project is an individual or collaborative enterprise.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-06T16:27:51-08:00</updated><id>http://localhost:4000//</id><title type="html">Art of Chelsea Jinxu Du</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">The Time Traveller</title><link href="http://localhost:4000/projects/Time-Traveler" rel="alternate" type="text/html" title="The Time Traveller" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Time-Traveler</id><content type="html" xml:base="http://localhost:4000/projects/Time-Traveler">&lt;p&gt;&lt;img src=&quot;/Images/Projects/The Time Traveller/splash.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;wrap&quot; class=&quot;project_column&quot;&gt;
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+				&lt;a href=&quot;#imgDP2_01.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/The Time Traveller/DP2_01.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgDP2_01.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/The Time Traveller/DP2_01.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgDP2_02.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/The Time Traveller/DP2_02.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgDP2_02.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/The Time Traveller/DP2_02.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgDP2_03.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/The Time Traveller/DP2_03.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgDP2_03.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/The Time Traveller/DP2_03.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgDP2_04.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/The Time Traveller/DP2_04.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgDP2_04.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/The Time Traveller/DP2_04.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+&lt;/div&gt;</content><summary type="html"></summary></entry><entry><title type="html">Perdido Street Station</title><link href="http://localhost:4000/projects/Perdido-Street-Station" rel="alternate" type="text/html" title="Perdido Street Station" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Perdido-Street-Station</id><content type="html" xml:base="http://localhost:4000/projects/Perdido-Street-Station">&lt;p&gt;&lt;img src=&quot;/Images/Projects/Perdido Street Station/splash.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;wrap&quot; class=&quot;project_column&quot;&gt;
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+				&lt;a href=&quot;#img01.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/01.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img01.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/01.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img02a.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/02a.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img02a.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/02a.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img02b.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/02b.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img02b.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/02b.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img03.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/03.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img03.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/03.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img04.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/04.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img04.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/04.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img05.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/05.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img05.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/05.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img06.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/06.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img06.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/06.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img07.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/07.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img07.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/07.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img08.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/08.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img08.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/08.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img09.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/09.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img09.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/09.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img10.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Perdido Street Station/10.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img10.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Perdido Street Station/10.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+&lt;/div&gt;</content><summary type="html"></summary></entry><entry><title type="html">Crystal Room</title><link href="http://localhost:4000/projects/Crystal-Room" rel="alternate" type="text/html" title="Crystal Room" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Crystal-Room</id><content type="html" xml:base="http://localhost:4000/projects/Crystal-Room">&lt;p&gt;&lt;img src=&quot;/Images/Projects/Crystal Room/splash.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;wrap&quot; class=&quot;project_column&quot;&gt;
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+				&lt;a href=&quot;#img01_Croom.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Crystal Room/01_Croom.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img01_Croom.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Crystal Room/01_Croom.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img02_Croom.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Crystal Room/02_Croom.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img02_Croom.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Crystal Room/02_Croom.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img03_Croom.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Crystal Room/03_Croom.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img03_Croom.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Crystal Room/03_Croom.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img04_Croom.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Crystal Room/04_Croom.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img04_Croom.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Crystal Room/04_Croom.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img05_Croom.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Crystal Room/05_Croom.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img05_Croom.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Crystal Room/05_Croom.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+&lt;/div&gt;</content><summary type="html"></summary></entry><entry><title type="html">Bohdisatvah</title><link href="http://localhost:4000/projects/Bohdisatvah" rel="alternate" type="text/html" title="Bohdisatvah" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Bohdisatvah</id><content type="html" xml:base="http://localhost:4000/projects/Bohdisatvah">&lt;p&gt;&lt;img src=&quot;/Images/Projects/Bohdisatvah/splash.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;wrap&quot; class=&quot;project_column&quot;&gt;
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+				&lt;a href=&quot;#img01_Bohdisatvah.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Bohdisatvah/01_Bohdisatvah.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img01_Bohdisatvah.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Bohdisatvah/01_Bohdisatvah.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img02_Bohdisatvah.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Bohdisatvah/02_Bohdisatvah.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img02_Bohdisatvah.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Bohdisatvah/02_Bohdisatvah.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img03_Bohdisatvah.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Bohdisatvah/03_Bohdisatvah.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img03_Bohdisatvah.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Bohdisatvah/03_Bohdisatvah.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img04_Bohdisatvah.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Bohdisatvah/04_Bohdisatvah.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img04_Bohdisatvah.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Bohdisatvah/04_Bohdisatvah.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img05_Bohdisatvah.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Bohdisatvah/05_Bohdisatvah.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img05_Bohdisatvah.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Bohdisatvah/05_Bohdisatvah.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+&lt;/div&gt;</content><summary type="html"></summary></entry><entry><title type="html">Beauty &amp;amp; The Beast</title><link href="http://localhost:4000/projects/Beauty-and-the-Beast" rel="alternate" type="text/html" title="Beauty &amp; The Beast" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Beauty-and-the-Beast</id><content type="html" xml:base="http://localhost:4000/projects/Beauty-and-the-Beast">&lt;p&gt;&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/splash.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;wrap&quot; class=&quot;project_column&quot;&gt;
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_CosDes_w13_FinalProjectPresentation-4.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-4.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_CosDes_w13_FinalProjectPresentation-4.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-4.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_CosDes_w13_FinalProjectPresentation-5.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-5.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_CosDes_w13_FinalProjectPresentation-5.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-5.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_CosDes_w13_FinalProjectPresentation-52.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-52.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_CosDes_w13_FinalProjectPresentation-52.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-52.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_CosDes_w13_FinalProjectPresentation-6.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-6.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_CosDes_w13_FinalProjectPresentation-6.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-6.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_CosDes_w13_FinalProjectPresentation-7.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-7.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_CosDes_w13_FinalProjectPresentation-7.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-7.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_CosDes_w13_FinalProjectPresentation-8.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-8.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_CosDes_w13_FinalProjectPresentation-8.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_CosDes_w13_FinalProjectPresentation-8.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_Cosdes_w10_BeastA.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_Cosdes_w10_BeastA.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_Cosdes_w10_BeastA.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_Cosdes_w10_BeastA.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#imgT4_Cosdes_w10_BeastB_02.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_Cosdes_w10_BeastB_02.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;imgT4_Cosdes_w10_BeastB_02.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Beauty &amp;amp; The Beast/T4_Cosdes_w10_BeastB_02.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+&lt;/div&gt;</content><summary type="html"></summary></entry><entry><title type="html">Battle Angel Alita</title><link href="http://localhost:4000/projects/Battle-Angel-Alita" rel="alternate" type="text/html" title="Battle Angel Alita" /><published>2016-12-27T00:41:10-08:00</published><updated>2016-12-27T00:41:10-08:00</updated><id>http://localhost:4000/projects/Battle-Angel-Alita</id><content type="html" xml:base="http://localhost:4000/projects/Battle-Angel-Alita">&lt;p&gt;&lt;img src=&quot;/Images/Projects/Battle Angel Alita/splash.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;wrap&quot; class=&quot;project_column&quot;&gt;
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img01_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/01_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img01_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/01_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img02_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/02_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img02_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/02_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img03_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/03_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img03_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/03_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img04_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/04_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img04_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/04_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img05_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/05_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img05_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/05_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img06_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/06_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img06_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/06_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img07_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/07_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img07_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/07_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img08_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/08_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img08_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/08_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img09_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/09_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img09_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/09_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img10_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/10_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img10_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/10_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img11_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/11_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img11_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/11_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img12_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/12_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img12_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/12_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+			
+				&lt;a href=&quot;#img13_Alita.jpg&quot;&gt;
+				&lt;img src=&quot;/Images/Projects/Battle Angel Alita/13_Alita.jpg&quot; /&gt;		
+				&lt;/a&gt;
+				&lt;a href=&quot;#_&quot; class=&quot;paintings_lightbox&quot; id=&quot;img13_Alita.jpg&quot;&gt;
+				&lt;img class=&quot;paintings_lightbox_img&quot; src=&quot;/Images/Projects/Battle Angel Alita/13_Alita.jpg&quot; /&gt;
+				&lt;/a&gt;
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+&lt;/div&gt;</content><summary type="html"></summary></entry></feed>
